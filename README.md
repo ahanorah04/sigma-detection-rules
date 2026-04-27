@@ -4,7 +4,7 @@ A collection of Sigma detection rules covering common attack techniques, mapped 
 
 ## 🚧 Status
 
-Active — last updated April 26, 2026
+Active last updated April 26, 2026
 
 - [x] Project plan
 - [ ] Atomic Red Team lab environment set up
