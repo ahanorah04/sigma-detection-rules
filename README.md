@@ -7,7 +7,7 @@ A collection of Sigma detection rules covering common attack techniques, mapped 
 Active last updated April 26, 2026
 
 - [x] Project plan
-- [ ] Atomic Red Team lab environment set up
+- [x] Atomic Red Team lab environment set up
 - [ ] Brute force detection (T1110)
 - [ ] Credential abuse detection (T1078)
 - [ ] Suspicious PowerShell detection (T1059.001)
